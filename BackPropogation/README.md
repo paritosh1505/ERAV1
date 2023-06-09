@@ -183,6 +183,7 @@ Although the loss value is decreasing much better for a learning rate of 0.5 com
  ![image](https://github.com/paritosh1505/ERAV1/assets/6744935/b2ec67bb-c575-4a7d-bf0f-140598bd43f6)
 
  -*__Scenario 5: When learning rate is 2__*
+ 
 As we can see increasing when we are increasing the learning rate loss value is coming to close to 0 at much faster rate
 
 ![image](https://github.com/paritosh1505/ERAV1/assets/6744935/33b8045b-138d-4698-92fa-bb11b71a5fc4)
