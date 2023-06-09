@@ -19,7 +19,7 @@ There are several reasons why using fewer parameters is often beneficial while t
 
 __Importing Library__
 
-For the following code Structure we are importing all the library which we are going to use in this code . At first step it is importing torch library then we are importing specific part of torch library which is called nn ( neural networks), F (functional), and optim (optimization) and if we want to perform certain operation related to dataset here are using two library called datasets and transforms from library called torchvision
+For the following code Structure we are importing all the library which we are going to use in this code . At first step it is importing torch library then we are importing specific part of torch library which is called nn ( neural networks), F (functional), and optim (optimization) and if we want to perform certain operation related to dataset then we are importing two library called datasets and transforms from library called torchvision
 
 ```bash
 import torch
